@@ -3,7 +3,7 @@ This project presents a multimodal deep learning framework for lung cancer class
 
 
 
-# Dataset includes:
+## Dataset includes:
 1. CT Scan Images
 2. Clinical Features
 ## Data Setup
